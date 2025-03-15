@@ -1,0 +1,395 @@
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:28:30.074Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:28:30.079Z"}
+[31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017 {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:791:11)","timestamp":"2025-03-15T11:29:00.075Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:38:34.968Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:38:34.974Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:38:34.997Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:39:03.642Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:39:03.647Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:39:06.904Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:39:06.911Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:39:06.924Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:39:38.496Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:39:38.500Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:39:46.350Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:39:46.355Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:39:46.364Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:40:36.216Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:40:36.220Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:40:43.820Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:40:43.826Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:40:43.832Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:41:21.155Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:41:21.161Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:41:29.715Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:41:29.719Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:41:29.726Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:42:31.409Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:42:31.415Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:42:39.288Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:42:39.295Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:42:39.306Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:43:08.754Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:43:08.758Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:43:17.055Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:43:17.060Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T11:43:17.066Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:43:48.199Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:43:48.203Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:44:06.400Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:44:06.405Z"}
+[31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017 {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:791:11)","timestamp":"2025-03-15T11:44:36.403Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:45:21.585Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:45:21.589Z"}
+[31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017 {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017\n    at _handleConnectionErrors (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:791:11)","timestamp":"2025-03-15T11:45:51.586Z"}
+[32minfo[39m: Server is running on port 3000 {"timestamp":"2025-03-15T11:51:08.741Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T11:51:08.744Z"}
+[31merror[39m: MongoDB connection error: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017 {"reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{},"setName":null,"stale":false,"type":"Unknown"},"stack":"MongooseServerSelectionError: connect ECONNREFUSED ::1:27017, connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:816:11)\n    at NativeConnection.openUri (/Users/liyuntuo/Desktop/小黎的项目/koa-xiaoli-node-app/node_modules/mongoose/lib/connection.js:791:11)","timestamp":"2025-03-15T11:51:38.742Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:04:59.999Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:05:00.016Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:05:00.027Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:05:18.763Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:05:18.770Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:05:18.777Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:06:42.031Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:06:42.038Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:06:42.042Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:08:15.676Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:08:15.692Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:08:15.701Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:10:07.884Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:10:07.889Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:10:07.892Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:15:31.885Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:15:31.890Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:15:31.894Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:16:35.513Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:16:35.519Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:16:35.523Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:17:08.926Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:17:08.931Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:17:08.935Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:17:43.189Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:17:43.194Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:17:43.197Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:19:34.471Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:19:34.477Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:19:34.481Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:19:56.780Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:19:56.786Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:19:56.790Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:20:02.514Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:20:02.519Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:20:02.523Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:20:22.264Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:20:22.269Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:20:22.273Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:22:17.303Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:22:17.311Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:22:17.314Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:23:08.089Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:23:08.094Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:23:08.098Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:23:48.241Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:23:48.248Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:23:48.252Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:24:00.269Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:24:00.276Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:24:00.280Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:27:08.216Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:27:08.222Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:27:08.227Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:27:53.300Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:27:53.308Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:27:53.313Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:34:01.595Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:34:01.607Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:34:01.613Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:34:27.174Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:34:27.181Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:34:27.184Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:34:34.108Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:34:34.119Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:34:34.125Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:35:30.002Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:35:30.008Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:35:30.013Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:35:30.946Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:35:30.953Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:35:30.957Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:36:36.567Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:36:36.574Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:36:36.579Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:40:32.684Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:40:32.691Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:40:32.697Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:43:19.874Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:43:19.881Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:43:19.887Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:43:23.062Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:43:23.066Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:43:23.070Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:45:05.429Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:45:05.436Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:45:05.442Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:45:29.968Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:45:29.978Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:45:29.985Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:47:23.384Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:47:23.394Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:47:23.399Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:48:52.675Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:48:52.681Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:48:52.687Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:49:18.944Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:49:18.950Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:49:18.954Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:50:05.297Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:50:05.304Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:50:05.309Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:50:11.083Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:50:11.089Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:50:11.093Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:50:57.272Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:50:57.279Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:50:57.284Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:52:00.232Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:52:00.240Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:52:00.247Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:52:30.359Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:52:30.367Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:52:30.372Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:52:58.367Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:52:58.372Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:52:58.378Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:53:03.133Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:53:03.137Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:53:03.146Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:56:03.130Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:56:03.139Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:56:03.144Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:56:29.794Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:56:29.801Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:56:29.806Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:56:33.611Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:56:33.617Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:56:33.621Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T12:56:59.090Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T12:56:59.097Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T12:56:59.102Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:00:07.614Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:00:07.620Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:00:07.626Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:00:30.403Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:00:30.410Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:00:30.417Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:00:33.686Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:00:33.692Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:00:33.696Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:01:43.209Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:01:43.220Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:01:43.225Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:01:54.812Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:01:54.818Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:01:54.824Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:02:16.403Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:02:16.416Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:02:16.425Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:06:19.076Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:06:19.084Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:06:19.090Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:07:02.777Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:07:02.785Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:07:02.789Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:07:20.306Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:07:20.313Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:07:20.319Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:07:47.364Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:07:47.370Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:07:47.374Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:08:15.478Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:08:15.485Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:08:15.489Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:08:16.374Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:08:16.381Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:08:16.384Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:09:53.304Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:09:53.310Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:09:53.314Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:09:58.528Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:09:58.533Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:09:58.539Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:11:28.141Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:11:28.149Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:11:28.154Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:12:02.122Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:12:02.128Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:12:02.134Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:23:01.852Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:23:01.858Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:23:01.866Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:24:30.679Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:24:30.686Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:24:30.692Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:24:59.568Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:24:59.576Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:24:59.590Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:25:00.868Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:25:00.875Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:25:00.880Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:25:22.700Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:25:22.718Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:25:22.727Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:25:28.760Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:25:28.766Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:25:28.772Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:26:29.619Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:26:29.632Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:26:29.638Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:26:37.973Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:26:37.985Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:26:37.995Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:27:12.675Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:27:12.684Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:27:12.688Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:27:41.240Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:27:41.249Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:27:41.253Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:29:54.366Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:29:54.373Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:29:54.379Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:30:07.951Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:30:07.957Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:30:07.960Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:30:12.422Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:30:12.428Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:30:12.432Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:31:07.032Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:31:07.040Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:31:07.045Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:31:11.798Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:31:11.803Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:31:11.807Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:32:03.522Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:32:03.528Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:32:03.533Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:38:48.248Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:38:48.258Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:38:48.264Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:39:28.163Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:39:28.168Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:39:28.174Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:39:39.320Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:39:39.326Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:39:39.332Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:40:12.897Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:40:12.903Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:40:12.909Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:41:25.671Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:41:25.677Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:41:25.683Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:42:17.927Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:42:17.933Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:42:17.939Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:42:38.773Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:42:38.780Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:42:38.785Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:42:59.759Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:42:59.766Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:42:59.771Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:43:05.219Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:43:05.225Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:43:05.231Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:46:18.314Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:46:18.320Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:46:18.325Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:46:52.032Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:46:52.038Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:46:52.044Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:47:13.151Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:47:13.158Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:47:13.163Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:47:37.154Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:47:37.162Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:47:37.176Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:47:37.692Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:47:37.699Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:47:37.704Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:48:19.345Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:48:19.350Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:48:19.354Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:50:38.450Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:50:38.457Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:50:38.463Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:51:05.044Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:51:05.052Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:51:05.058Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:51:25.424Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:51:25.430Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:51:25.436Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:52:31.392Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:52:31.399Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:52:31.405Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:53:08.108Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:53:08.114Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:53:08.120Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:54:56.245Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:54:56.251Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:54:56.257Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:58:22.571Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:58:22.578Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:58:22.585Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:58:31.143Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:58:31.151Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:58:31.159Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T13:59:42.599Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T13:59:42.608Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T13:59:42.614Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:00:14.491Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:00:14.497Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:00:14.502Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:00:39.841Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:00:39.848Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:00:39.854Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:02:47.153Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:02:47.160Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:02:47.167Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:04:22.023Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:04:22.030Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:04:22.036Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:05:23.566Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:05:23.573Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:05:23.586Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:05:48.302Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:05:48.307Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:05:48.314Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:07:42.558Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:07:42.566Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:07:42.572Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:08:05.359Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:08:05.365Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:08:05.372Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:08:51.983Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:08:51.989Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:08:51.997Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:10:16.829Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:10:16.836Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:10:16.842Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:10:37.787Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:10:37.793Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:10:37.800Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:10:57.023Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:10:57.030Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:10:57.036Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:12:42.366Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:12:42.374Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:12:42.386Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:12:44.400Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:12:44.405Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:12:44.409Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:13:13.517Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:13:13.522Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:13:13.528Z"}
+[32minfo[39m: Server is running on port 3001 {"timestamp":"2025-03-15T14:13:45.515Z"}
+[32minfo[39m: Redis connected successfully {"timestamp":"2025-03-15T14:13:45.523Z"}
+[32minfo[39m: MongoDB connected successfully {"timestamp":"2025-03-15T14:13:45.535Z"}
